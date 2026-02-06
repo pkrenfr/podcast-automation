@@ -1,0 +1,50 @@
+# ポッドキャスト自動生成設定
+
+# 音声設定
+voice:
+  engine: "voicevox"
+  voicevox_url: "http://localhost:50021"
+  speakers:
+    zundamon: 3      # ずんだもん
+    metan: 2         # 四国めたん
+  speed_scale: 1.0
+  pitch_scale: 0.0
+  intonation_scale: 1.0
+
+# 処理設定（CPU負荷軽減）
+processing:
+  chunk_size: 10           # 音声合成のチャンクサイズ（セグメント数）
+  cooldown_sec: 0.5        # チャンク間のクールダウン（秒）
+  enable_monitoring: true  # リソースモニタリング有効化
+  cpu_warn_percent: 70.0   # CPU使用率警告閾値（%）
+  memory_warn_percent: 80.0 # メモリ使用率警告閾値（%）
+
+# BGM設定
+bgm:
+  volume_reduction_db: -20  # BGMの音量を-20dB下げる
+  fade_in_ms: 3000         # 3秒フェードイン
+  fade_out_ms: 3000        # 3秒フェードアウト
+  sources:
+    - musopen
+    - imslp
+
+# 音声編集設定
+audio:
+  sample_rate: 44100
+  channels: 2  # ステレオ
+  export_format: "mp3"
+  export_bitrate: "192k"
+
+# 出力設定
+output:
+  base_dir: "./output"
+  keep_segments: true      # 音声セグメントを保持
+  keep_audacity_project: true  # Audacityプロジェクトを保持
+  
+# メタデータ
+metadata:
+  podcast_title: "AI美術紀行 ー 人工知能が語る名画の世界 ー"
+  author: "AI美術紀行"
+  genre: "Arts"
+  language: "ja"
+

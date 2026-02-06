@@ -1,0 +1,224 @@
+{
+  "episodes": [
+    {
+      "episode_id": 1,
+      "timestamp": "2026-02-05T12:09:23",
+      "theme": "モネの睡蓮",
+      "folder": "20260205_120923_monet_suiren_ep01",
+      "stats": {
+        "total_characters": 1391,
+        "dialogue_characters": 995,
+        "segments": 8,
+        "duration_seconds": 72.6,
+        "characters_per_second": 13.7,
+        "mp3_file_size_mb": 1.5,
+        "wav_file_size_mb": 13.0
+      },
+      "voice_settings": {
+        "speed_scale": 1.0,
+        "pitch_scale": 0.0,
+        "intonation_scale": 1.0
+      },
+      "speakers": {
+        "zundamon": 4,
+        "metan": 4
+      }
+    },
+    {
+      "episode_id": 2,
+      "timestamp": "2026-02-05T12:13:24.677609",
+      "theme": "モネの睡蓮",
+      "folder": "20260205_120923_monet_suiren_ep01",
+      "stats": {
+        "total_characters": 1391,
+        "dialogue_characters": 995,
+        "segments": 8,
+        "duration_seconds": 72.6,
+        "characters_per_second": 13.7,
+        "mp3_file_size_mb": 1.4,
+        "wav_file_size_mb": 12.2
+      },
+      "voice_settings": {
+        "speed_scale": 1.0,
+        "pitch_scale": 0.0,
+        "intonation_scale": 1.0
+      },
+      "speakers": {
+        "zundamon": 12,
+        "metan": 12
+      }
+    },
+    {
+      "episode_id": 3,
+      "timestamp": "2026-02-05T12:45:57.333028",
+      "theme": "フェルメール《真珠の耳飾りの少女》",
+      "folder": "20260205_122436_vermeer_pearl_ep01",
+      "stats": {
+        "total_characters": 1490,
+        "dialogue_characters": 1006,
+        "segments": 10,
+        "duration_seconds": 55.2,
+        "characters_per_second": 18.21,
+        "mp3_file_size_mb": 1.4,
+        "wav_file_size_mb": 9.3
+      },
+      "voice_settings": {
+        "speed_scale": 1.0,
+        "pitch_scale": 0.0,
+        "intonation_scale": 1.0
+      },
+      "speakers": {
+        "zundamon": 16,
+        "metan": 14
+      }
+    },
+    {
+      "episode_id": 4,
+      "timestamp": "2026-02-05T13:35:07.318611",
+      "theme": "フェルメール《真珠の耳飾りの少女》",
+      "folder": "20260205_133115_vermeer_pearl_ep01_fixed",
+      "stats": {
+        "total_characters": 2040,
+        "dialogue_characters": 1380,
+        "segments": 40,
+        "duration_seconds": 254.0,
+        "characters_per_second": 5.43,
+        "mp3_file_size_mb": 0,
+        "wav_file_size_mb": 42.7
+      },
+      "voice_settings": {
+        "engine": "voicevox",
+        "voicevox_url": "http://localhost:50021",
+        "speakers": {
+          "zundamon": 3,
+          "metan": 2
+        },
+        "speed_scale": 1.0,
+        "pitch_scale": 0.0,
+        "intonation_scale": 1.0
+      },
+      "speakers": {
+        "zundamon": 20,
+        "metan": 20
+      }
+    },
+    {
+      "episode_id": 5,
+      "timestamp": "2026-02-05T13:43:43.743330",
+      "theme": "フェルメール《真珠の耳飾りの少女》",
+      "folder": "20260205_133947_vermeer_final",
+      "stats": {
+        "total_characters": 2040,
+        "dialogue_characters": 1380,
+        "segments": 40,
+        "duration_seconds": 254.0,
+        "characters_per_second": 5.43,
+        "mp3_file_size_mb": 0,
+        "wav_file_size_mb": 42.7
+      },
+      "voice_settings": {
+        "engine": "voicevox",
+        "voicevox_url": "http://localhost:50021",
+        "speakers": {
+          "zundamon": 3,
+          "metan": 2
+        },
+        "speed_scale": 1.0,
+        "pitch_scale": 0.0,
+        "intonation_scale": 1.0
+      },
+      "speakers": {
+        "zundamon": 20,
+        "metan": 20
+      }
+    },
+    {
+      "episode_id": 6,
+      "timestamp": "2026-02-05T14:29:25.145304",
+      "theme": "ゴッホのひまわり",
+      "folder": "20260205_142601_gogh_sunflowers_ep01",
+      "stats": {
+        "total_characters": 1872,
+        "dialogue_characters": 1271,
+        "segments": 36,
+        "duration_seconds": 224.1,
+        "characters_per_second": 5.67,
+        "mp3_file_size_mb": 0,
+        "wav_file_size_mb": 37.7
+      },
+      "voice_settings": {
+        "engine": "voicevox",
+        "voicevox_url": "http://localhost:50021",
+        "speakers": {
+          "zundamon": 3,
+          "metan": 2
+        },
+        "speed_scale": 1.0,
+        "pitch_scale": 0.0,
+        "intonation_scale": 1.0
+      },
+      "speakers": {
+        "zundamon": 19,
+        "metan": 17
+      }
+    },
+    {
+      "episode_id": 7,
+      "timestamp": "2026-02-06T01:51:36.968578",
+      "theme": "フェルメールの真珠の耳飾りの少女",
+      "folder": "20260206_014804_フェルメールの真珠の耳飾りの少女",
+      "stats": {
+        "total_characters": 1820,
+        "dialogue_characters": 1289,
+        "segments": 34,
+        "duration_seconds": 229.9,
+        "characters_per_second": 5.61,
+        "mp3_file_size_mb": 0,
+        "wav_file_size_mb": 38.7
+      },
+      "voice_settings": {
+        "engine": "voicevox",
+        "voicevox_url": "http://localhost:50021",
+        "speakers": {
+          "zundamon": 3,
+          "metan": 2
+        },
+        "speed_scale": 1.0,
+        "pitch_scale": 0.0,
+        "intonation_scale": 1.0
+      },
+      "speakers": {
+        "zundamon": 17,
+        "metan": 17
+      }
+    }
+  ],
+  "summary": {
+    "total_episodes": 7,
+    "average_characters_per_second": 9.68,
+    "average_dialogue_characters_per_second": 9.68,
+    "prediction_formula": "duration_seconds = dialogue_characters / 9.68"
+  },
+  "recommendations": {
+    "3_minutes": {
+      "target_seconds": 180,
+      "recommended_characters": 1742
+    },
+    "5_minutes": {
+      "target_seconds": 300,
+      "recommended_characters": 2904
+    },
+    "8_minutes": {
+      "target_seconds": 480,
+      "recommended_characters": 4647
+    },
+    "10_minutes": {
+      "target_seconds": 600,
+      "recommended_characters": 5809
+    },
+    "15_minutes": {
+      "target_seconds": 900,
+      "recommended_characters": 8714
+    }
+  }
+}
